@@ -1,5 +1,5 @@
 # ollama-output-cleaner
-A minimal proxy that strips &lt;think> blocks from DeepSeek and Qwen outputs served through Ollama.
+A minimal proxy that strips &lt;think> blocks from DeepSeek outputs served through Ollama.
 
 ## Run
 * `npm install`
